@@ -34,7 +34,7 @@ em strong {
 .logo {
 	background: #FFFFFF;
 	padding: 20px;
-	width: 50%;
+	
 }
 
 ul {
@@ -46,5 +46,5 @@ ul {
 }
 
 .imagemlogo {
-    width: 50%;
+    width: 30%;
 }
