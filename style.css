@@ -3,8 +3,7 @@ body {
 }
 
 #banner {
-	backgroumd: #F0F8FF;
-		width: 100%;
+	width: 100%;
 }
 .principal{
 background: #EEE8AA;
@@ -12,6 +11,7 @@ padding: 20px;
 }
 
 .titulo-principal{
+	backgroumd: #F0F8FF;
 	padding-left: 20px;
 }
 .titulo-centralizado {
