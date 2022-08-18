@@ -12,9 +12,10 @@ padding: 20px;
 }
 
 .titulo-principal{
-	padding-left: 60px;
+	padding-left: 20px;
 	background: #FFFACD;
 	text-align: center;
+	font-size: 60px
 	color: #8B008B
 }
 .titulo-centralizado {
