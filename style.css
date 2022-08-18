@@ -39,7 +39,7 @@ em strong {
 }
 
 ul {
-	display: inline-block;
+	display: table;
 	vertical-align: top;
 	width: 20%;
 	margin-right: 10%;
