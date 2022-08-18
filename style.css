@@ -40,6 +40,13 @@ em strong {
 
 ul {
 	display: table;
+	 width: 100%;
+  height: 100vh;
+  padding: 100px 0;
+  color: #98FB98; width: 100%;
+  height: 100vh;
+  padding: 100px 0;
+  color: #98FB98;
 	vertical-align: top;
 	width: 20%;
 	margin-right: 10%;
@@ -51,18 +58,5 @@ ul {
 	
 	{
   padding:0;
-  margin:0;
-}
-.intro {
-  display: table;
-  width: 100%;
-  height: 100vh;
-  padding: 100px 0;
-  color: #98FB98;
-  background: no-repeat bottom center scroll;
-  background-position: 30% 45%;
-  background-size: cover;
-}
-	
-	
+  margin:0;	
 }
