@@ -3,3 +3,4 @@ Página de Pensamento Computacional do Colégio Maria Dalila
 
 ## Alunos do curso de Pensamento Computacional
 :cloud:
+
