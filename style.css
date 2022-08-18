@@ -40,12 +40,11 @@ em strong {
 
 ul {
 	display: table;
-  height: 100px;
-  padding: 100px 0;
-  color: #98FB98; width: 100%;
-  padding: 100px 0;
-  color: #98FB98;
-	vertical-align: top;
+  	height: 100px;
+ 	padding: 100px 0;
+  	color: #98FB98; 
+	width: 100%;
+  	vertical-align: top;
 	width: 20%;
 	margin-right: 10%;
 
