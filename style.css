@@ -2,29 +2,28 @@ body {
 	
 }
 
-p {
-	text-align: center;
-	color: #8B008B
-
 #banner {
 	width: 100%;
 }
-.titulo-principal{
-	padding-left: 10px;
-	background: #FFFACD;
-	text-align: center;
-	font-size: 60px;
-	color: #8B008B
-{
 .principal{
 	background: #EEE685;
 	padding: 20px;
 	text-align: center
 }
+
+.titulo-principal{
+	padding-left: 40px;
+	background: #FFFACD;
+	text-align: center;
+	font-size: 60px;
+	color: #8B008B
+}
 .titulo-centralizado {
 	color: #blue;
 	text-align: center
 }
+	p {
+	text-align: center;
 
 missao {
 	font-size: 30px
