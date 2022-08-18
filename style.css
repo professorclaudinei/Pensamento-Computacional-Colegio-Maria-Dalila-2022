@@ -6,12 +6,12 @@ body {
 	width: 100%;
 }
 .principal{
-background: #EEE685;
-padding: 20px;
+	background: #EEE685;
+	padding: 20px;
 	text-align: center
 }
 
-.titulo-principal{
+.h1{
 	padding-left: 10px;
 	background: #FFFACD;
 	text-align: center;
