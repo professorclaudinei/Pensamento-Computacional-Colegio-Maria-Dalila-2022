@@ -28,11 +28,12 @@ em strong {
 }
 
 .itens{
+	
+	background: #F0FFF0;
 	font-style: arial italic
 }
 
 .logo {
-	background: #F0FFF0;
 	padding: 20px;
 	
 }
