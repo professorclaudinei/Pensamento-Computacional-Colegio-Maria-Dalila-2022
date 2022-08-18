@@ -40,7 +40,7 @@ em strong {
 
 ul {
 	display: table;
-  	height: 100px;
+  	vertical-align: top;
  	color: #9400D3; 
 	width: 20%;
 	margin-right: 15%;
