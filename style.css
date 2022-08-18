@@ -20,7 +20,7 @@ body {
 }
 .titulo-centralizado {
 	color: #blue
-	text-align: center
+	text-align: right;
 }
 	p {
 	text-align: center;
