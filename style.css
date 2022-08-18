@@ -1,12 +1,10 @@
 body {
-
+background-color: ##EEE8CD;
 }
 
 #banner {
 	width: 100%;
-	background-color: ##EEE8CD;
-	font-size: 30px;
-}
+	}
 
 p {
 	text-align: justify;
