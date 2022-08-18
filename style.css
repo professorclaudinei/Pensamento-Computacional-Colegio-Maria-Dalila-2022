@@ -12,6 +12,56 @@ padding: 20px;
 
 .titulo-principal{
 	padding-left: 20px;
+}
+.titulo-centralizado {
+	color: blue;
+	text-align: center
+}
+p {
+	text-align: center;
+}
+missao {
+	font-size: 30px
+}
+em strong {
+	color: #C71585;
+}
+
+.itens{
+	background: #F0FFF0;
+	width: 100%;
+	font-style: arial italic
+}
+
+.logo {
+	padding: 20px;
+	
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 15%;
+
+}
+
+.imagemlogo {
+background: #E0FFFF;	
+    width: 20%;
+}
+
+=======
+#banner {
+	width: 100%;
+}
+.principal{
+background: #EEE8AA;
+padding: 20px;
+}
+
+.titulo-principal{
+	padding-left: 20px;
 	
 }
 .titulo-centralizado {
@@ -47,3 +97,5 @@ ul {
 .imagemlogo {	
     width: 20%;
 }
+
+>>>>>>> cc0851739b6acc3780762d1ed1e11d90169f531f
