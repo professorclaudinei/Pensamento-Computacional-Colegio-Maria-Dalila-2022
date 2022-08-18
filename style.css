@@ -1,4 +1,9 @@
 body {
+
+}
+
+#banner {
+	width: 100%;
 	background-color: ##EEE8CD;
 	font-size: 25px;
 }
@@ -6,9 +11,7 @@ body {
 p {
 	text-align: justify;
 		color: #CD6600
-
-#banner {
-	width: 100%;
+		
 }
 .principal{
 background: #EEE8AA;
