@@ -46,12 +46,12 @@ em strong {
 ul {
 	display: inline-block;
 	vertical-align: top;
-	width: 50%;
+	width: 25%;
 	margin-right: 15%;
 
 }
 
 .imagemlogo {
 background: #E0FFFF;	
-    width: 30%;
+    width: 50%;
 }
