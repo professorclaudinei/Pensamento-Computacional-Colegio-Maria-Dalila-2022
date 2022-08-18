@@ -5,18 +5,17 @@ body {
 #banner {
 	width: 100%;
 }
-.principal{
-	background: #EEE685;
-	padding: 20px;
-	text-align: center
-}
-
-.h1{
+.titulo-principal{
 	padding-left: 10px;
 	background: #FFFACD;
 	text-align: center;
 	font-size: 60px;
 	color: #8B008B
+{
+.principal{
+	background: #EEE685;
+	padding: 20px;
+	text-align: center
 }
 .titulo-centralizado {
 	color: #blue;
