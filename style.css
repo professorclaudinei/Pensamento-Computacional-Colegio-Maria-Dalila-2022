@@ -20,7 +20,7 @@ body {
 }
 .titulo-centralizado {
 	color: #blue
-	text-align: right;
+	text-align: center;
 }
 	p {
 	text-align: center;
@@ -35,7 +35,7 @@ em strong {
 .itens{
 	background: #F0FFF0;
 	width: 100%;
-	font-style: italic
+	font-style: arial italic
 }
 
 .logo {
