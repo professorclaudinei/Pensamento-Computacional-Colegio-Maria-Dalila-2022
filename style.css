@@ -55,3 +55,10 @@ ul {
 background: #E0FFFF;	
     width: 50%;
 }
+li::marker{
+	content:"\2606";
+	color: red;
+	fonte-size:30px;
+}
+	
+	
