@@ -7,6 +7,7 @@ body {
 }
 .principal{
 	background: #EEE685;
+	width: 100%;
 	padding: 10px;
 	text-align: center;
 }
@@ -55,11 +56,7 @@ ul {
 background: #E0FFFF;	
     width: 50%;
 }
-.Laboratório de Informática{
-	background: #FFE4B5;
-	padding: 10px;
-	width: 100%;
-}
+
 .disciplinas{
 	background: #E6E6FA;
 	padding: 10px;
