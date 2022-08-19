@@ -50,7 +50,6 @@ ul {
 	vertical-align: top;
 	width: 25%;
 	margin-right: 15%;
-
 }
 
 .imagemlogo{
@@ -68,15 +67,15 @@ background: #E0FFFF;
 	padding: 10px;
 	text-align: left;
 }
-.imagemmapa{
-   padding: 50px;
-   width: 30%;
-}
 .fanfarra{
    padding: 50px;
    width: 30%;
 }	
 .imagempensamento1{
+   padding: 50px;
+   width: 30%;
+}
+.imagempensamento2{
    padding: 50px;
    width: 30%;
 }
