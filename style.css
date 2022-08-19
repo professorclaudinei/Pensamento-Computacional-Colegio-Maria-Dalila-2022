@@ -55,6 +55,15 @@ ul {
 background: #E0FFFF;	
     width: 50%;
 }
-
-	
+.principal{
+	background: #F5F5F5;
+	padding: 30px;
+	text-align: right;
+}
+.turmas{
+	background: #F5DEB3;
+	padding: 30px;
+	text-align: right;
+}
+		
 	
