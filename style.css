@@ -57,6 +57,7 @@ ul {
 	background: #E0FFFF;
 	width: 20%;
 	height: 30%;
+	display: inline-block;
 }
 
 .disciplinas {
