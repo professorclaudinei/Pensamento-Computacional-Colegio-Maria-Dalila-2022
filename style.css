@@ -52,14 +52,19 @@ ul {
 	width: 25%;
 	margin-right: 15%;
 }
-
+.imagemsala {
+	background: #E0FFFF;
+	width: 20%;
+	height: 30%;
+	display: inline-block;
+}
 .imagemlogo {
 	background: #E0FFFF;
 	width: 20%;
 	height: 30%;
 	display: inline-block;
 }
-.imagemimagemteste {
+.imagembiblioteca {
 	background: #E0FFFF;
 	width: 20%;
 	height: 30%;
