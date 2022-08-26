@@ -59,7 +59,12 @@ ul {
 	height: 30%;
 	display: inline-block;
 }
-
+.imagemImagemteste {
+	background: #E0FFFF;
+	width: 20%;
+	height: 30%;
+	display: inline-block;
+}
 .disciplinas {
 	background: #E6E6FA;
 	padding: 10px;
